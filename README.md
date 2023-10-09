@@ -1,7 +1,7 @@
 # Weather App
 GDSC's Fall 23's Workshop Project to learn Async JavaScript.
 
-## Description
+## Setting up:
 Before you start, please install the resources below: <br>
 <ul>
   <li>Visual Studio Code: https://code.visualstudio.com/download</li>
