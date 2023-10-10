@@ -10,26 +10,8 @@
 - HTML, CSS and JavaScript.
 
 ## Summary of the DevShop:
-<ol>
-  <li>VS Code installed</li>
-  <br>
-  <li>GitHub Account created/logged in</li>
-  Having trouble? Go to: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account
-  <br>
-  <br>
-  <li>Git Bash Installed and configurated:</li>
-  <ul>
-    Open Git Bash in your computer and type:
-    <li>git config --global user.name "Your name"</li>
-    <li>git config --global user.email youremail@example.org</li>
-    <b>Attention: ***Git email must be the same GitHub email*** </b>
-  </ul>
-  <br>
-  <li>Create a new repository on GitHub from a Fork:</li>
-  <ul>
-    <li>Step 1: Click on the "Fork" button at the top of this repository's page.</li>
-    <li>Step 2: Select the dropdown menu, click on "Your repositories." This will take you to a page that lists your existing repositories (if any).</li>
-    <li>Step 3: Fill in Repository details. Once you've filled in the required details, click the green "Create fork" button at the bottom of the page.</li>
+  <li> learned how to install and configure gitbash.
+  <li> learned how to create a new repository in github from a fork.
   </ul>
   <br>
   <li>Initializing the repository using Git:</li>
